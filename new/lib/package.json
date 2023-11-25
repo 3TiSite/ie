@@ -1,0 +1,1 @@
+{"name":"@~3/new","version":"0.1.1","repository":{"type":"git","url":"git+https://github.com/3TiSite/plugin.git"},"homepage":"https://github.com/3TiSite/plugin/tree/main/new","keywords":["3Ti.Site/plugin"],"author":"3Ti.Site@gmail.com","license":"Apache-2.0","exports":{".":"./index.js","./*":"./*"},"files":["./*"],"devDependencies":{},"scripts":{},"type":"module"}
