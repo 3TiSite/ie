@@ -1,0 +1,16 @@
+{
+  "name": "@2-/fp",
+  "version": "0.1.0",
+  "repository": "https://github.com/3TiSite/ie.git",
+  "homepage": "https://github.com/3TiSite/ie/tree/main/fp",
+  "author": "3Ti.Site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": ["lib/*"],
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module"
+}
