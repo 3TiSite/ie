@@ -6,9 +6,7 @@
     "url": "git+https://github.com/3TiSite/ie.git"
   },
   "homepage": "https://github.com/3TiSite/ie/tree/main/tmpl",
-  "keywords": [
-    "3Ti.Site/plugin"
-  ],
+  "keywords": [],
   "author": "3Ti.Site@gmail.com",
   "license": "Apache-2.0",
   "exports": {
